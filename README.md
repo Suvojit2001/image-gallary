@@ -1,3 +1,3 @@
 # image-gallary
 
-[ https://image-gallary-suvojit.netlify.app/ ]
+# https://image-gallary-suvojit.netlify.app/ 
